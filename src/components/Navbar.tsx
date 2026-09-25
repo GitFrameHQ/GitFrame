@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Layers } from 'lucide-react';
 
 interface NavbarProps {
   onNavigateToBuilder?: () => void;
